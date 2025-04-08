@@ -12,7 +12,7 @@ An automated Bash script for setting up a Docker environment on Ubuntu servers.
 ## 📥 Kako preuzeti i pokrenuti skriptu / How to download and run the script
 
 ```bash
-wget https://github.com/SHB2025/install_docker/blob/722ccfd457467bcff85af7a39fb7f0f7d9b97f13/install_docker.sh
+wget https://raw.githubusercontent.com/SHB2025/install_docker/refs/heads/main/install_docker.sh
 chmod +x install_docker.sh
 sudo ./install_docker.sh
 

@@ -62,6 +62,7 @@ else
   sudo useradd -m -s /bin/bash $username
   echo "$username:$password" | sudo chpasswd
   # Dodavanje novog korisnika u sudo grupu
+  # Adding a new user to the sudo group
   sudo usermod -aG sudo $username
 fi
 

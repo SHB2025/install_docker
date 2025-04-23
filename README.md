@@ -11,10 +11,11 @@ An automated Bash script for setting up a Docker environment on Ubuntu servers.
 
 ## 📥 Kako preuzeti i pokrenuti skriptu / How to download and run the script
 
-```bash
-wget https://raw.githubusercontent.com/SHB2025/install_docker/refs/heads/main/install_docker.sh
-chmod +x install_docker.sh
-sudo ./install_docker.sh
+    wget https://raw.githubusercontent.com/SHB2025/install_docker/refs/heads/main/install_docker.sh
+    chmod +x install_docker.sh
+    sudo ./install_docker.sh
+
+## Opis:
 
 📋 Koraci koje skripta izvršava / What the script does step-by-step
 ✅ Provjerava da li je skripta pokrenuta kao sudo ili root

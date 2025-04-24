@@ -46,8 +46,8 @@ read -p "Unesite ime korisničkog računa kojeg želite kreirati i dodati u dock
 if id "$username" &>/dev/null; then
   echo "Korisnički račun '$username' već postoji."
   echo "User account '$username' already exists."
-  read -p "Da li želite koristiti postojeći korisnički račun? (da/ne)/Do you want to use an existing account? (yes=da/no=ne): " choice
-  if [ "$choice" != "da" ]; then
+  read -p "Da li želite koristiti postojeći korisnički račun? (Y/N)/Do you want to use an existing account? (Y/N): " choice
+if [[ "$choice" == "y" || "$choice" == "Y" ]]; then
     echo "Kreiranje korisničkog računa otkazano."
     echo "User account creation canceled."
     exit 1

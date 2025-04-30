@@ -7,7 +7,7 @@ Automatizirana Bash skripta za podešavanje Docker okruženja na Ubuntu serverim
 
 An automated Bash script for setting up a Docker environment on Ubuntu servers.
 
-Videmo: https://youtu.be/-5pzmSATVLE
+Video: https://youtu.be/-5pzmSATVLE
 
 ---
 

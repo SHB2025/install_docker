@@ -1,3 +1,5 @@
+Video: https://youtu.be/-5pzmSATVLE
+
 # install_docker
 Skripta za automatsku instalaciju Docker-a na Ubuntu server.
 
@@ -6,8 +8,6 @@ Skripta za automatsku instalaciju Docker-a na Ubuntu server.
 Automatizirana Bash skripta za podešavanje Docker okruženja na Ubuntu serverima.
 
 An automated Bash script for setting up a Docker environment on Ubuntu servers.
-
-Video: https://youtu.be/-5pzmSATVLE
 
 ---
 
